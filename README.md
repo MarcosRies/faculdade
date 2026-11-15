@@ -10,5 +10,6 @@ Repositório oficial do MVP desenvolvido para a Associação Comunitária Mãos 
 
 ## 🚀 Como Executar Localmente
 1. Clone o repositório:
-   ```bash
+   
+    ```bash
    git clone <url-do-repositorio>
