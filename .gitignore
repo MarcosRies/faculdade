@@ -1,0 +1,16 @@
+# Ambiente Virtual
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Configurações de Ambiente e Segredos
+.env
+
+# Banco de dados local (se aplicável)
+*.db
+instance/
+
+# Logs e Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
